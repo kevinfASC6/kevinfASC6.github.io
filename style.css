@@ -1,3 +1,19 @@
 #name1 { 
-    text-align: center;
+    text-align: center; 
+    font-size: 50px;  
+    color: red; 
+    font-weight: bold; 
+     
+} 
+
+#aboutMe { 
+    text-align: center; 
+} 
+
+#family { 
+    text-align: center; 
+} 
+
+#projects {
+    text-align: center; 
 }
